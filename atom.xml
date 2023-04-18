@@ -3,11 +3,11 @@
   <title>A small station</title>
   
   <subtitle>小小的</subtitle>
-  <link href="https://gitee.com/shulei666/myblog.git/atom.xml" rel="self"/>
+  <link href="http://shu66.github.io/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/shulei666/myblog.git/"/>
+  <link href="http://shu66.github.io/"/>
   <updated>2023-04-16T03:01:59.457Z</updated>
-  <id>https://gitee.com/shulei666/myblog.git/</id>
+  <id>http://shu66.github.io/</id>
   
   <author>
     <name>Mr.shu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>经典民间鬼故事二</title>
-    <link href="https://gitee.com/shulei666/myblog.git/2023/04/16/literature/horror-fiction/%E7%BB%8F%E5%85%B8%E6%B0%91%E9%97%B4%E9%AC%BC%E6%95%85%E4%BA%8C/"/>
-    <id>https://gitee.com/shulei666/myblog.git/2023/04/16/literature/horror-fiction/%E7%BB%8F%E5%85%B8%E6%B0%91%E9%97%B4%E9%AC%BC%E6%95%85%E4%BA%8C/</id>
+    <link href="http://shu66.github.io/2023/04/16/literature/horror-fiction/%E7%BB%8F%E5%85%B8%E6%B0%91%E9%97%B4%E9%AC%BC%E6%95%85%E4%BA%8C/"/>
+    <id>http://shu66.github.io/2023/04/16/literature/horror-fiction/%E7%BB%8F%E5%85%B8%E6%B0%91%E9%97%B4%E9%AC%BC%E6%95%85%E4%BA%8C/</id>
     <published>2023-04-16T02:37:33.201Z</published>
     <updated>2023-04-16T03:01:59.457Z</updated>
     
@@ -34,17 +34,17 @@
     
     
     
-    <category term="文学" scheme="https://gitee.com/shulei666/myblog.git/categories/%E6%96%87%E5%AD%A6/"/>
+    <category term="文学" scheme="http://shu66.github.io/categories/%E6%96%87%E5%AD%A6/"/>
     
-    <category term="恐怖小说" scheme="https://gitee.com/shulei666/myblog.git/categories/%E6%96%87%E5%AD%A6/%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4/"/>
+    <category term="恐怖小说" scheme="http://shu66.github.io/categories/%E6%96%87%E5%AD%A6/%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4/"/>
     
     
   </entry>
   
   <entry>
     <title>经典民间鬼故事一</title>
-    <link href="https://gitee.com/shulei666/myblog.git/2023/04/16/literature/horror-fiction/%E7%BB%8F%E5%85%B8%E6%B0%91%E9%97%B4%E9%AC%BC%E6%95%85%E4%BA%8B%E4%B8%80/"/>
-    <id>https://gitee.com/shulei666/myblog.git/2023/04/16/literature/horror-fiction/%E7%BB%8F%E5%85%B8%E6%B0%91%E9%97%B4%E9%AC%BC%E6%95%85%E4%BA%8B%E4%B8%80/</id>
+    <link href="http://shu66.github.io/2023/04/16/literature/horror-fiction/%E7%BB%8F%E5%85%B8%E6%B0%91%E9%97%B4%E9%AC%BC%E6%95%85%E4%BA%8B%E4%B8%80/"/>
+    <id>http://shu66.github.io/2023/04/16/literature/horror-fiction/%E7%BB%8F%E5%85%B8%E6%B0%91%E9%97%B4%E9%AC%BC%E6%95%85%E4%BA%8B%E4%B8%80/</id>
     <published>2023-04-16T02:35:41.186Z</published>
     <updated>2023-04-16T03:01:52.481Z</updated>
     
@@ -59,17 +59,17 @@
     
     
     
-    <category term="文学" scheme="https://gitee.com/shulei666/myblog.git/categories/%E6%96%87%E5%AD%A6/"/>
+    <category term="文学" scheme="http://shu66.github.io/categories/%E6%96%87%E5%AD%A6/"/>
     
-    <category term="恐怖小说" scheme="https://gitee.com/shulei666/myblog.git/categories/%E6%96%87%E5%AD%A6/%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4/"/>
+    <category term="恐怖小说" scheme="http://shu66.github.io/categories/%E6%96%87%E5%AD%A6/%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4/"/>
     
     
   </entry>
   
   <entry>
     <title>恐怖小说推荐</title>
-    <link href="https://gitee.com/shulei666/myblog.git/2023/04/16/literature/horror-fiction/%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4%E6%8E%A8%E8%8D%90/"/>
-    <id>https://gitee.com/shulei666/myblog.git/2023/04/16/literature/horror-fiction/%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4%E6%8E%A8%E8%8D%90/</id>
+    <link href="http://shu66.github.io/2023/04/16/literature/horror-fiction/%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4%E6%8E%A8%E8%8D%90/"/>
+    <id>http://shu66.github.io/2023/04/16/literature/horror-fiction/%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4%E6%8E%A8%E8%8D%90/</id>
     <published>2023-04-16T02:29:18.825Z</published>
     <updated>2023-04-16T03:01:47.543Z</updated>
     
@@ -85,17 +85,17 @@
     
     
     
-    <category term="文学" scheme="https://gitee.com/shulei666/myblog.git/categories/%E6%96%87%E5%AD%A6/"/>
+    <category term="文学" scheme="http://shu66.github.io/categories/%E6%96%87%E5%AD%A6/"/>
     
-    <category term="恐怖小说" scheme="https://gitee.com/shulei666/myblog.git/categories/%E6%96%87%E5%AD%A6/%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4/"/>
+    <category term="恐怖小说" scheme="http://shu66.github.io/categories/%E6%96%87%E5%AD%A6/%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4/"/>
     
     
   </entry>
   
   <entry>
     <title>写在首页</title>
-    <link href="https://gitee.com/shulei666/myblog.git/2023/04/16/zatan/%E5%86%99%E5%9C%A8%E9%A6%96%E9%A1%B5/"/>
-    <id>https://gitee.com/shulei666/myblog.git/2023/04/16/zatan/%E5%86%99%E5%9C%A8%E9%A6%96%E9%A1%B5/</id>
+    <link href="http://shu66.github.io/2023/04/16/zatan/%E5%86%99%E5%9C%A8%E9%A6%96%E9%A1%B5/"/>
+    <id>http://shu66.github.io/2023/04/16/zatan/%E5%86%99%E5%9C%A8%E9%A6%96%E9%A1%B5/</id>
     <published>2023-04-16T02:20:16.616Z</published>
     <updated>2023-04-17T11:52:38.861Z</updated>
     
@@ -111,15 +111,15 @@
     
     
     
-    <category term="杂谈" scheme="https://gitee.com/shulei666/myblog.git/categories/%E6%9D%82%E8%B0%88/"/>
+    <category term="杂谈" scheme="http://shu66.github.io/categories/%E6%9D%82%E8%B0%88/"/>
     
     
   </entry>
   
   <entry>
     <title>欢迎使用马克飞象</title>
-    <link href="https://gitee.com/shulei666/myblog.git/2023/04/16/share/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%E9%A9%AC%E5%85%8B%E9%A3%9E%E8%B1%A1/"/>
-    <id>https://gitee.com/shulei666/myblog.git/2023/04/16/share/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%E9%A9%AC%E5%85%8B%E9%A3%9E%E8%B1%A1/</id>
+    <link href="http://shu66.github.io/2023/04/16/share/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%E9%A9%AC%E5%85%8B%E9%A3%9E%E8%B1%A1/"/>
+    <id>http://shu66.github.io/2023/04/16/share/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%E9%A9%AC%E5%85%8B%E9%A3%9E%E8%B1%A1/</id>
     <published>2023-04-16T00:03:28.355Z</published>
     <updated>2023-04-16T02:48:55.120Z</updated>
     
@@ -135,15 +135,15 @@
     
     
     
-    <category term="分享" scheme="https://gitee.com/shulei666/myblog.git/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="http://shu66.github.io/categories/%E5%88%86%E4%BA%AB/"/>
     
     
   </entry>
   
   <entry>
     <title>鬼影是傻子</title>
-    <link href="https://gitee.com/shulei666/myblog.git/2023/04/15/hello-world/"/>
-    <id>https://gitee.com/shulei666/myblog.git/2023/04/15/hello-world/</id>
+    <link href="http://shu66.github.io/2023/04/15/hello-world/"/>
+    <id>http://shu66.github.io/2023/04/15/hello-world/</id>
     <published>2023-04-15T03:59:13.817Z</published>
     <updated>2023-04-16T01:08:14.704Z</updated>
     
